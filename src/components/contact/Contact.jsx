@@ -46,17 +46,20 @@ const Contact = () => {
           <article className='contact-option'>
             <RiMessengerLine className='contact-option-icon' />
             <h4>Messanger</h4>
-            <h5>vera lem</h5>
-            <a href='mailto:girmagizachew2016@gmail.com' target='_blank'>
+            <h5>Girma Gizachew</h5>
+            <a
+              href='https://m.me/profile.php?id=100078990104384'
+              target='_blank'
+            >
               Send a message
             </a>
           </article>
           <article className='contact-option'>
             <FaWhatsapp className='contact-option-icon' />
             <h4>WhatsApp</h4>
-            <h5>+123456789</h5>
+            <h5>+5712772637</h5>
             <a
-              href='https://api.whatsapp.com/send?phone=+5712772637'
+              href='https://api.whatsapp.com/send?phone=+15712772637'
               target='_blank'
             >
               Send a message

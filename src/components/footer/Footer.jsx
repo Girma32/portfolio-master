@@ -30,13 +30,16 @@ const Footer = () => {
         </li>
       </ul>
       <div className='footer-socials'>
-        <a href='https://facebook.com' target='_blank'>
+        <a
+          href='https://www.facebook.com/profile.php?id=100078990104384'
+          target='_blank'
+        >
           <BsFacebook />
         </a>
-        <a href='https://instagram.com' target='_blank'>
+        <a href='https://www.instagram.com/girma5140/' target='_blank'>
           <BsInstagram />
         </a>
-        <a href='https://twitter.com' target='_blank'>
+        <a href='https://twitter.com/home' target='_blank'>
           <BsTwitter />
         </a>
       </div>
